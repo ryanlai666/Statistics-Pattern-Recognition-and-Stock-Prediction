@@ -5,7 +5,7 @@ Statistics Pattern Recognition and Stock Prediction
 This project implements a statistical pattern recognition pipeline for stock market analysis. The core logic is encapsulated in `stock_slice_v1.5.ipynb`, which processes historical stock data to generate training datasets for machine learning models.
 
 <p align="center">
-  <img src="Code_Flowchart" alt="Network Architecture" width="88%">
+  <img src="Code_Flowchart.png" alt="Network Architecture" width="88%">
 </p>
 
 ## Overview

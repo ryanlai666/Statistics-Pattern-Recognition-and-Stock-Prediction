@@ -112,7 +112,7 @@ The project includes visualization capabilities (via `stock_plot.py` logic) to g
         5. all date after 2015
 
 # 2. fitting model comparsion:
-       1. TSlearn libary (?)
+       1. TSlearn libary
        2. Kmean from Sklearn
        3. DTW Kmean
 

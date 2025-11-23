@@ -1,4 +1,3 @@
-## STAT654_projec
 Statistics Pattern Recognition and Stock Prediction
 
 # Stock Prediction & Pattern Recognition
